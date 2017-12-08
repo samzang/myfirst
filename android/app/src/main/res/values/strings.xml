@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">JF-XaDbAi_q_wjUXIbLIYiGSjnXUcb084b50-098a-4b71-a46b-16efcbec12b7</string>
+    <string name="app_name">版权登记</string>
+</resources>
